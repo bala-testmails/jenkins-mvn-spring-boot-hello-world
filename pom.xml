@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.dsm</groupId>
-	<artifactId>jenkins-hello-world</artifactId>
+	<artifactId>kk-jenkins-mvn-sb-hello-world</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>jenkins-hello-world</name>
+	<name>kk-jenkins-mvn-sb-hello-world</name>
 	<description>Demo project for Jenkins Spring Boot Build</description>
 	<url/>
 	<licenses>
